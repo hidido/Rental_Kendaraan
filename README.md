@@ -1,6 +1,6 @@
 # Rental Kendaraan
 
-Project Java untuk mengelola penyewaan kendaraan, seperti mobil dan motor.
+Project Akhir Mata Kuliah Pemrograman Berbasis Objek yang menggunakan bahasa Java untuk mengelola penyewaan kendaraan, seperti mobil dan motor.
 
 ## Fitur
 
